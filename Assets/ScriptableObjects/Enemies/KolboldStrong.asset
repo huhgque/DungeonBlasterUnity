@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615fc001c963cd6458657b2a8f9a1694, type: 3}
+  m_Name: KolboldStrong
+  m_EditorClassIdentifier: 
+  enemyName: Kolbold Strong
+  hp: 20
+  damage: 1
+  knockbackResistant: 1
+  speed: 1
+  exp: 2
+  enemyObject: {fileID: 1170986336833000402, guid: 905bb4ba56d5b804fbe4219495391f21, type: 3}

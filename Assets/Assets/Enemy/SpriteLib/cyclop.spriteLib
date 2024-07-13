@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Walk
+    m_Hash: 765711723
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Walk0
+      m_Hash: 781632548
+      m_Sprite: {fileID: -1673871019, guid: 6bedbed51178efc4793a907501118475, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1673871019, guid: 6bedbed51178efc4793a907501118475, type: 3}
+    - m_Name: Walk1
+      m_Hash: 428995762
+      m_Sprite: {fileID: 116207561, guid: 6bedbed51178efc4793a907501118475, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 116207561, guid: 6bedbed51178efc4793a907501118475, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638391322864086834
+  m_Version: 1

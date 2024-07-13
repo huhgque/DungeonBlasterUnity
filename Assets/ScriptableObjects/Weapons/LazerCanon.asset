@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3da4a1ee2b4ae814a9b0380c26005241, type: 3}
+  m_Name: LazerCanon
+  m_EditorClassIdentifier: 
+  itemName: Lazer canon
+  description: Hold to charge
+  image: {fileID: 21300000, guid: 6b7fc7de189615642a63de1fa5e10770, type: 3}
+  bulletPerShot: 1
+  damage: 10
+  pierce: -1
+  bulletSpeed: 4
+  bulletTravelDistant: 5
+  knockBack: 0
+  size: 1
+  bullet: 1
+  perSecond: 2
+  spreadAngle: 0
+  spreadFunction: 0
+  weaponType: 0
+  bestMatch: 0
+  descriptionBestMatch: 
+  weaponObject: {fileID: 6382269021630719688, guid: 363c33035aaf2384bbc4992ed36557fa, type: 3}

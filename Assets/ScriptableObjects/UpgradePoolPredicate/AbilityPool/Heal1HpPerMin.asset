@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efade57461edcb4ba19c72f7465a086, type: 3}
+  m_Name: Heal1HpPerMin
+  m_EditorClassIdentifier: 
+  UpgradePath: 1
+  upgradeInfo: {fileID: 11400000, guid: 8b49ac0dc9041d042b70769b381d8d95, type: 2}
+  selectTime: 1
